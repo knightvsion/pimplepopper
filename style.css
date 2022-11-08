@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+    background: url(https://firebasestorage.googleapis.com/v0/b/codeless-app.appspot.com/o/projects%2FM5miLVdaghDngqcQOyrd%2F4ef0ca55e39b52d2474a6f159471b1a0?alt=media&amp;token=cb00801a-503a-4e46-85f5-cf58022d8c63);
+    background-size: 200% 200%;
+}
